@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas e pós graduando em Análise de Dados e Business Intelligence, entusiasmado para explorar oportunidades de aprendizado e desenvolvimento na área de Ciência de Dados e Business Intelligence. Tenho uma sólida compreensão dos princípios de análise de dados e estou familiarizado com a implementação de soluções de inteligência de negócios. Tenho trabalhado em projetos e aplicações utilizando uma variedade de tecnologias, incluindo Python, SQL, Tableau e Power BI. Além disso, possuo um nível avançado de inglês, o que me permite colaborar efetivamente em um ambiente global.
+Estudante de Análise e Desenvolvimento de Sistemas e pós graduando em Análise de Dados e Business Intelligence, em trasinção de profissional. Entusiasmado para explorar oportunidades de aprendizado e desenvolvimento na área de Ciência de Dados e Business Intelligence. Tenho uma sólida compreensão dos princípios de análise de dados e estou familiarizado com a implementação de soluções de inteligência de negócios. Tenho trabalhado em projetos e aplicações utilizando uma variedade de tecnologias, incluindo Python, SQL, Tableau e Power BI. Além disso, possuo um nível avançado de inglês, o que me permite colaborar efetivamente em um ambiente global.
 
 ## Habilidades
 
